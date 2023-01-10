@@ -8,4 +8,4 @@ A game where the user tries to guess the code with hints. Built with JavaFX.
 - Rulebook and tutorial
 
 # Credits
-Developed with Lakshy-Gupta for ICS4U final project
+Developed with Lakshy-Gupta and Peter Wang for ICS4U final project
